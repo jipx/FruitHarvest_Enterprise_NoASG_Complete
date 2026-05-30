@@ -19,8 +19,8 @@ jobs:
 
       - uses: aws-actions/configure-aws-credentials@v4
         with:
-          role-to-assume: ${{ vars.BACKEND_DEPLOY_ROLE_ARN }}
-          aws-region: a${{ vars.AWS_REGION }}
+          role-to-assume: ${{ secrets.BACKEND_DEPLOY_ROLE_ARN }}
+          aws-region: a${{ secrets.AWS_REGION }}
 
       - name: Deploy with SSM
         run: |
