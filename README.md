@@ -59,3 +59,5 @@ Set these GitHub Actions secrets or repository variables after deployment:
 - `CLOUDFRONT_DISTRIBUTION_ID`
 - `BACKEND_ALB_DNS`
 - IAM role ARNs from CDK output
+- FRONTEND_DEPLOY_ROLE_ARN
+- BACKEND_DEPLOY_ROLE_ARN
