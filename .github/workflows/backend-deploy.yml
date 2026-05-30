@@ -1,0 +1,36 @@
+name: Deploy Backend
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'backend/**'
+      - '.github/workflows/backend-deploy.yml'
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.BACKEND_DEPLOY_ROLE_ARN }}
+          aws-region: ${{ vars.AWS_REGION }}
+
+      - name: Deploy with SSM
+        run: |
+          aws ssm send-command             --document-name "AWS-RunShellScript"             --targets "Key=tag:Role,Values=Backend" "Key=tag:Application,Values=FruitHarvest"             --comment "Deploy FruitHarvest backend"             --parameters 'commands=[
+              "set -xe",
+              "cd /opt/fruitharvest",
+              "git pull",
+              "cd backend",
+              "npm install",
+              "npm run init-db || true",
+              "pm2 restart fruitharvest-backend || pm2 start app.js --name fruitharvest-backend",
+              "pm2 save"
+            ]'
