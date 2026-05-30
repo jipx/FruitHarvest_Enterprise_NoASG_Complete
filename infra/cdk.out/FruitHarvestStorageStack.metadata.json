@@ -1,0 +1,193 @@
+{
+  "/FruitHarvestStorageStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/Custom::S3AutoDeleteObjectsCustomResourceProvider": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-customResourceProvider",
+      "data": true
+    }
+  ],
+  "/FruitHarvestStorageStack/ImageBucketName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ImageBucketName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/ProductImagesBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ProductImagesBucket03BDA4C8"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Bucket2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/FruitHarvestStorageStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/Exports/Output{\"Fn::GetAtt\":[\"ProductImagesBucket03BDA4C8\",\"Arn\"]}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputFnGetAttProductImagesBucket03BDA4C8Arn5AA48756"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/Exports/Output{\"Ref\":\"ProductImagesBucket03BDA4C8\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefProductImagesBucket03BDA4C8A4D6E2D0"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestStorageStack/ProductImagesBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ProductImagesBucketPolicyA2B0CBED"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Bucket2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/FruitHarvestStorageStack/ProductImagesBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ProductImagesBucketAutoDeleteObjectsCustomResourceB27E6F1C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "/FruitHarvestMonitoringStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestMonitoringStack/DashboardName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DashboardName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestMonitoringStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestMonitoringStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestMonitoringStack/Dashboard/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "Dashboard9E4231ED"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Dashboard2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestMonitoringStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ]
+}

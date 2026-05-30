@@ -1,0 +1,266 @@
+{
+  "/FruitHarvestBackendStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/SsmParameterValue:--aws--service--ami-amazon-linux-latest--al2023-ami-kernel-6.1-x86_64:C96584B6-F00A-464E-AD19-53AFF4B05118.Parameter": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SsmParameterValueawsserviceamiamazonlinuxlatestal2023amikernel61x8664C96584B6F00A464EAD1953AFF4B05118Parameter"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Instance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendAlbDns": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendAlbDns"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendInstanceId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendInstanceId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendEc2Role/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendEc2Role3E84A6B0"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Role2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendInstance/InstanceProfile": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendInstanceInstanceProfileE0E324FD"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Instance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendInstance/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendInstanceED889FA2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Instance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendAlb/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendAlb0D5FE5C5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new ApplicationLoadBalancer2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/Exports/Output{\"Fn::GetAtt\":[\"BackendAlb0D5FE5C5\",\"DNSName\"]}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputFnGetAttBackendAlb0D5FE5C5DNSName24072ABB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/Exports/Output{\"Ref\":\"BackendInstanceED889FA2\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefBackendInstanceED889FA245ACAEA4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/Exports/Output{\"Fn::GetAtt\":[\"BackendAlb0D5FE5C5\",\"LoadBalancerFullName\"]}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputFnGetAttBackendAlb0D5FE5C5LoadBalancerFullName36F423C7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendEc2Role/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendEc2RoleDefaultPolicy57D4C1D4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendAlb/HttpListener/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendAlbHttpListener58B160AA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.<anonymous> in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestBackendStack/BackendAlb/HttpListener/BackendTargetGroup/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BackendAlbHttpListenerBackendTargetGroupFD8C31D2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.<anonymous> in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)"
+      ]
+    }
+  ]
+}

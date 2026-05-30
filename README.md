@@ -30,7 +30,7 @@ cdk bootstrap aws://YOUR_ACCOUNT_ID/ap-southeast-1
 
 cdk deploy --all `
   -c github_owner=jipx `
-  -c github_repo=fruitharvest_enterprise_seeded `
+  -c github_repo=FruitHarvest_Enterprise_NoASG_Complete `
   -c region=ap-southeast-1
 ```
 

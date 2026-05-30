@@ -1,0 +1,36 @@
+{
+  "version": "53.0.0",
+  "files": {
+    "d75c48c9f82cde63e9bf414df335e84e8ac24f11eb34889be255b702aec71e50": {
+      "displayName": "FruitHarvestCicdStack/Custom::AWSCDKOpenIdConnectProviderCustomResourceProvider Code",
+      "source": {
+        "path": "asset.d75c48c9f82cde63e9bf414df335e84e8ac24f11eb34889be255b702aec71e50",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "628902727523-ap-southeast-1-5d616260": {
+          "bucketName": "cdk-hnb659fds-assets-628902727523-ap-southeast-1",
+          "objectKey": "d75c48c9f82cde63e9bf414df335e84e8ac24f11eb34889be255b702aec71e50.zip",
+          "region": "ap-southeast-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::628902727523:role/cdk-hnb659fds-file-publishing-role-628902727523-ap-southeast-1"
+        }
+      }
+    },
+    "c9f7e8ca1b5d4dff898a3e2b5e8a0f4f534efa9dc1c932a0ed4d2bb7c09aeef7": {
+      "displayName": "FruitHarvestCicdStack Template",
+      "source": {
+        "path": "FruitHarvestCicdStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "628902727523-ap-southeast-1-73e47960": {
+          "bucketName": "cdk-hnb659fds-assets-628902727523-ap-southeast-1",
+          "objectKey": "c9f7e8ca1b5d4dff898a3e2b5e8a0f4f534efa9dc1c932a0ed4d2bb7c09aeef7.json",
+          "region": "ap-southeast-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::628902727523:role/cdk-hnb659fds-file-publishing-role-628902727523-ap-southeast-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

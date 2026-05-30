@@ -1,0 +1,185 @@
+{
+  "/FruitHarvestDatabaseStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/DbEndpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DbEndpoint"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/DbSecretArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DbSecretArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/MysqlDatabase/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MysqlDatabase645976E7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new DatabaseInstance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/Exports/Output{\"Ref\":\"MysqlDatabaseSecretAttachment4228875F\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefMysqlDatabaseSecretAttachment4228875F061ACDD1"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/Exports/Output{\"Ref\":\"MysqlDatabase645976E7\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefMysqlDatabase645976E79D1F7703"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/MysqlDatabase/SubnetGroup/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MysqlDatabaseSubnetGroupCE7889E7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new DatabaseInstance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/MysqlDatabase/Secret/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "FruitHarvestDatabaseStackMysqlDatabaseSecret6EF919273fdaad7efa858a3daf9490cf0a702aeb"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new DatabaseInstance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)"
+      ]
+    }
+  ],
+  "/FruitHarvestDatabaseStack/MysqlDatabase/Secret/Attachment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MysqlDatabaseSecretAttachment4228875F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new DatabaseInstance2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)"
+      ]
+    }
+  ]
+}

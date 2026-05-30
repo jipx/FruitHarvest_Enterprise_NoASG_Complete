@@ -1,0 +1,157 @@
+{
+  "/FruitHarvestAuthStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/UserPoolId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPoolId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/UserPoolClientId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPoolClientId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)"
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/UserPool/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPool6BA7E5F2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new UserPool2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:61273)",
+        "Kernel.create (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:52004)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/Exports/Output{\"Ref\":\"UserPool6BA7E5F2\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefUserPool6BA7E5F296FD7236"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/Exports/Output{\"Ref\":\"UserPoolWebClient4C9370B0\"}": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ExportsOutputRefUserPoolWebClient4C9370B02E2C9FF9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)"
+      ]
+    }
+  ],
+  "/FruitHarvestAuthStack/UserPool/WebClient/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPoolWebClient4C9370B0"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.addClient in aws-cdk-lib...",
+        "C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:543 (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:5434)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:69889)",
+        "Kernel.invoke (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:54294)",
+        "KernelHost.processRequest (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:212822)",
+        "KernelHost.run (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211877)",
+        "Immediate._onImmediate (C:\\Users\\pengx\\AppData\\Local\\Temp\\tmpq9p640mp\\lib\\program.js:1:211921)",
+        "...node internals..."
+      ]
+    }
+  ]
+}

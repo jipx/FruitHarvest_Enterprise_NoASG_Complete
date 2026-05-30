@@ -1,0 +1,21 @@
+{
+  "version": "53.0.0",
+  "files": {
+    "d6162456b42dfb5b188d27d1d270d5e61b99904ccb2d908006888b1c32a19dfb": {
+      "displayName": "FruitHarvestSecurityStack Template",
+      "source": {
+        "path": "FruitHarvestSecurityStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "628902727523-ap-southeast-1-e43026c9": {
+          "bucketName": "cdk-hnb659fds-assets-628902727523-ap-southeast-1",
+          "objectKey": "d6162456b42dfb5b188d27d1d270d5e61b99904ccb2d908006888b1c32a19dfb.json",
+          "region": "ap-southeast-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::628902727523:role/cdk-hnb659fds-file-publishing-role-628902727523-ap-southeast-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}
