@@ -1,11 +1,8 @@
 const API_URL = import.meta.env.VITE_API_URL || "";
 
 function buildUrl(path) {
-  if (!API_URL) {
-    return path;
-  }
-
-  return `${API_URL}${path}`;
+  const base = API_URL.replace(/\/$/, "");
+  return `${base}${path}`;
 }
 
 async function request(path, options = {}) {
