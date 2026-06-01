@@ -61,3 +61,9 @@ Set these GitHub Actions secrets or repository variables after deployment:
 - IAM role ARNs from CDK output
 - FRONTEND_DEPLOY_ROLE_ARN
 - BACKEND_DEPLOY_ROLE_ARN
+
+#frontend url
+- https://d1gwe097rikkst.cloudfront.net/
+
+#backend API
+- 
