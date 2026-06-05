@@ -16,16 +16,16 @@
         }
       }
     },
-    "c9f7e8ca1b5d4dff898a3e2b5e8a0f4f534efa9dc1c932a0ed4d2bb7c09aeef7": {
+    "f2141a4497a6fbb2c33e64b2632222c632a9403698c5389331f5d118b8031518": {
       "displayName": "FruitHarvestCicdStack Template",
       "source": {
         "path": "FruitHarvestCicdStack.template.json",
         "packaging": "file"
       },
       "destinations": {
-        "628902727523-ap-southeast-1-73e47960": {
+        "628902727523-ap-southeast-1-6322138d": {
           "bucketName": "cdk-hnb659fds-assets-628902727523-ap-southeast-1",
-          "objectKey": "c9f7e8ca1b5d4dff898a3e2b5e8a0f4f534efa9dc1c932a0ed4d2bb7c09aeef7.json",
+          "objectKey": "f2141a4497a6fbb2c33e64b2632222c632a9403698c5389331f5d118b8031518.json",
           "region": "ap-southeast-1",
           "assumeRoleArn": "arn:${AWS::Partition}:iam::628902727523:role/cdk-hnb659fds-file-publishing-role-628902727523-ap-southeast-1"
         }
